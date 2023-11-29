@@ -1,9 +1,7 @@
 .itens{
     font-style: italic
 }
-.beneficios{
-    background: #FFFFFF;
-}
+
 
 .principal{
     background: #CCCCCC;
@@ -25,9 +23,7 @@ ul {
 	width: 20%;
 	margin-right: 15%;
 }
-ul{
-display: inline-block;
-}
+
 
 .imagembeneficios{
     width: 50%;
